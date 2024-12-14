@@ -1,4 +1,4 @@
-# Django REST Swagger: deprecated (2019-06-04)
+Django REST Swagger: deprecated (2019-06-04)
 
 This project is no longer being maintained. Please consider **drf-yasg** as an alternative/successor. I haven't personally used it, but it looks feature-complete and is actively maintained.
 
